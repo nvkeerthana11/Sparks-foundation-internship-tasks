@@ -102,6 +102,7 @@ margin-bottom: 200px;
 footer{
 background-color:black;
 height:200px;
+
 }
 .foot{
     text-align: center;
@@ -120,6 +121,7 @@ height:200px;
     text-align: center;
 }
 .foot-fb{
+    text-align: center;
     margin-left: 565px;
     width:50px;
 }

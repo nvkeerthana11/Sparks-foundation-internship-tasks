@@ -12,14 +12,12 @@ body{
     padding-right: 10px;
 }
 .brand{
-    margin-left: 100px;
+    margin-left: 30px;
     color: black;
- font-size: x-large;
+ font-size: xx-large;
 font-weight: bolder;
 }
-.nav-link:hover {
-color:white;
-}
+
 .brand:hover{
     color: black;
 }
@@ -37,13 +35,20 @@ color:white;
 }
 .nav-link{
     margin-right: 10px;
-    color: black;
-   
+    font-size: large;
+    color:black;
 }
-.b-icon{
-    margin-left: -60px;
+.navbar{
+    margin-left: 0px;
 }
+.nav-link:hover {
+    color:white;
+    }
+
 .bi{
-    margin-left:-40px;
-    margin-top: 10px;
+    
+ margin-right: 10px;
+}
+.top-btn{
+    margin-left: -5px;
 }

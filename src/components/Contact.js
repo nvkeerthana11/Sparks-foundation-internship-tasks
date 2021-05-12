@@ -27,7 +27,7 @@ const Contact = () => {
                 <h5 className="reach">Here's how you can reach us</h5>
 
                 <div className="office">
-                    <Card style={{ width: '23rem' }} className="moffice">
+                    <Card style={{ width: '23rem' }} className="moffice" col-lg-4 col-md-6>
                         <Card.Body>
                             <Card.Title className="title"> MAIN OFFICE</Card.Title>
                             <Card.Subtitle className="mb-2 text-muted">Visit our office for any queries</Card.Subtitle>

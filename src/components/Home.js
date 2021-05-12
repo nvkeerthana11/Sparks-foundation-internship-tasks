@@ -8,6 +8,7 @@ import { ImHappy } from "react-icons/im";
 import { FaDonate } from "react-icons/fa";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card'
+import Container from 'react-bootstrap/Container'
 import { CardGroup } from 'react-bootstrap';
 const Home = () => {
     return (
@@ -77,7 +78,7 @@ const Home = () => {
                 </Link>
 
             </div>
-            <div className="cause" >
+            <div className="cause col-lg-6" >
 
                 <img className="imgs" src="https://images.unsplash.com/photo-1599059813005-11265ba4b4ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
                     alt="" />
@@ -123,13 +124,13 @@ const Home = () => {
                 
                 
               
-<Card className="how">
+<Card className="how" >
 <h1 className="how-txt">How to Donate ?</h1>
                     <CardGroup className="htd" style={{ width: '18rem' }}>
                     <Card className="cd1">
                         <Card.Body style={{ height: '180px' }} >
                         <BiSelectMultiple className="select" size={50} />
-                            <Card.Title id="tit">SELECT CAMPAIGN</Card.Title>
+<Card.Title id="tit">SELECT CAMPAIGN</Card.Title>
 
                             <Card.Text className="txt">
                             Choose any of our ongoing campaigns that you wanted to donate and go to campaign column.

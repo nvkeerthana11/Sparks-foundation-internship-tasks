@@ -17,6 +17,7 @@
 .office{
     margin-top: 0px;
     height:410px;
+    width:200%;
     background-color: gold;
     /* text-align:center ; */
 }
@@ -102,6 +103,7 @@ margin-bottom: 200px;
 footer{
 background-color:black;
 height:200px;
+width:200%;
 
 }
 .foot{
@@ -110,6 +112,7 @@ height:200px;
     font-weight: bolder;
     margin-top:-30px;
     font-size: xx-large;
+    margin-left: -1355px;
 }
 .foot-icon{
     margin-left: 595px;
@@ -119,6 +122,7 @@ height:200px;
 .tag{
     color:gold;
     text-align: center;
+    margin-left: -1370px;
 }
 .foot-fb{
     text-align: center;
@@ -132,6 +136,7 @@ height:200px;
     background-color:black;
     height: 30px;
     text-align: center;
+    width:200%;
 }
 .ff
 {

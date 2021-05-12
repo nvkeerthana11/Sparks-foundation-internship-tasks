@@ -1,0 +1,171 @@
+.box-2{
+    width:700px;
+    height:400px;
+    margin-left:150px;
+    margin-top: 200px;
+}
+.hl {
+    border-left: 5px solid;
+    background-color: #c70039;
+    height: 65px;
+    position:absolute;
+    margin-left: 100px;
+   
+   
+  }
+  .diff{
+      margin-top: -340px;
+      color:#c70039;
+  }
+.vol{
+    width:45;
+    height:350px;
+    margin-left:550px;
+}
+  /* .l1,.l2{
+    margin-top:-85px;
+    border-left: 3px solid black;
+    height: 55px;
+    margin-left: 265px; */
+ 
+  /* } */
+   /* .l2{
+    
+      margin-left: 250px;
+      
+  }  */
+ #lp{
+margin-bottom: 10px;
+ }
+ .abt-2{
+   
+     height:150px;
+     width:100%;
+     background-color:#ffe268;
+    
+ }
+ .icons{
+    position:absolute;
+    display:flex;
+     margin-left: 300px;
+     margin-top: 30px; 
+     margin-bottom: 10px;
+     align-items: center;
+
+     
+    
+ }
+ .pt,.gh,.be{
+     margin-left: -400px;
+     margin-top: 60px;  
+    padding-top: 5px;
+    width:200px;
+    color:#c70039;
+    
+ }
+ .be{
+    text-align: center;
+ }
+ 
+#graph{
+    margin-left:200px;
+   
+}
+.hanimg{
+    margin-top: 100px;
+    margin-bottom: -350px;
+    
+}
+#bullseye{
+    margin-left: 200px;
+   
+}
+ #team,#graph,#bullseye{
+    margin-right: 300px;
+    margin-top: -20px;
+ }
+ 
+ .team{
+     margin-left: 200px;
+ }
+  .sen{
+      width: 550px;
+      line-height: 2rem;
+  }
+  .icon-d{
+    
+      width:70px;
+      height: 70px;
+      border-radius: 50%;
+      border:flex;
+      justify-content: center;
+      padding:2.5%;
+     margin-top: 10px;
+  }
+  .do{
+      margin-top:-300px;
+      text-align: center;
+      color: white;
+  }
+  .abt-5{
+      position:absolute;
+    text-align: center;
+    color: white;
+    width:700px;
+   
+    margin-left:300px;
+    line-height: 2rem;
+  }
+  .abt-5p{
+      margin-top: 55px;
+
+  }
+  body{
+      background-color: white;
+  }
+  .hr{
+      color:gold;
+  }
+  .smile{
+      margin-left: 230px;
+      margin-top: -330px;
+      height:200px;
+
+  }
+ #smily{
+     margin-bottom: -60px;
+ }
+  #gift{
+margin-top: -60px;
+  }
+  /* .l {
+    border-left: 3px solid black;
+    height: 55px;
+    margin-left: 70px;
+ margin-top:-40px;
+ 
+  } */
+  .m{
+      margin-top: -50px;
+      margin-left: 85px;
+      color:#c70039;
+      
+  }
+  .don{
+      margin-left: 85px;
+  }
+  .on{
+
+      margin-left: 280px;
+     
+  }
+  .no{
+      margin-top:-160px;  
+      color: #c70039;
+  }
+  .gif{
+margin-top:-110px;
+color: #c70039;
+  }
+  
+  

@@ -1,0 +1,152 @@
+.childimg,.dogimg{
+ 
+    margin-bottom: 100px;
+    width:1350px;
+    height:400px;
+   /* filter:blur(2px) */
+}
+.vdl{
+    border-left: 5px solid gold;
+    height: 65px;
+    position:absolute;
+    margin-left: 1050px;
+    margin-top:-130px;
+}
+.donatechild{
+    width:100%;
+
+}
+.middle{
+    height:100px;
+}
+body{
+    background-color: #eee;
+}
+.hd{
+   margin-left:80px;
+    margin-top: -70px;
+    width:500px;
+    color: #150e56;
+    
+}
+.deck{
+    width:750px;
+  margin-top: 60px;
+   margin-left: 200px;
+  
+
+}
+
+.twc{
+    margin-top:950px ;
+    margin-left: 100px;
+}
+.deck2,.deck3,.deck4{
+    background-color: gold;
+    height:300px;
+  padding-top:10px;
+    margin:50px 0 50px 0;
+    background-color: white;
+    box-shadow: 0 1.4rem 8rem rgba(0,0,0,.2);
+   
+}
+
+
+.i-1{
+    position: relative;
+    width:290px;
+    height:200px;
+    margin-left:-100px;
+    margin-top: 20px;
+    
+  
+}
+.b-1{
+   
+   margin-left:200px;
+  margin-top: -240px;
+}
+#vo{
+    margin-left:220px;
+    margin-top: -180px;
+    color:#150e56;
+}
+#rs{
+    margin-top: 5px;
+    font-weight: bolder;
+    color: #e84545;
+}
+#vs{
+    margin-left: 230px;
+    margin-top: -60px;
+    font-weight: bolder;
+    color: #e84545;
+}
+#rp{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    color:#150e56;
+}
+
+.heading{
+    margin-top: 20px;
+    margin-bottom:15px;
+    color:#150e56;
+}
+#df{
+    margin-left:400px;
+    margin-top:-160px;
+    color:#150e56;
+}
+.a1{
+    position:absolute;
+    text-decoration: none;
+    color: #e84545;
+   margin-top: -35px;
+   margin-left:-59px;
+   font-size: larger;
+}
+.dmc{
+    width:230px;
+    margin-left: 70px;
+    border: 3px solid orangered;
+}
+.sidecards{
+ 
+    margin-left: 1050px;
+   
+}
+.sc1{
+margin-top: -1570px;
+}
+.sc2,.sc3{
+    margin-top: 20px;
+}
+.sctext{
+   margin-top:20px;
+  
+}
+#sctext,.goalmoney,.sct,.text-1{
+    color: #e84545;
+    
+}
+.goal,.goalmoney{
+    margin-left: 180px; 
+   
+}
+
+.goal{
+    margin-top: -60px;
+    font-weight: bold;
+    color:#150e56;
+   
+}
+.sctitle{
+    font-weight: bold;
+    color:#150e56;
+}
+.fcamp{
+    margin-left: 10px;
+    color:#150e56;
+}

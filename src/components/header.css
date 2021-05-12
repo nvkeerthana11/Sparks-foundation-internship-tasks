@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.ml-auto{
+    margin-left: 600px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    padding-right: 10px;
+}
+.brand{
+    margin-left: 100px;
+    color: black;
+ font-size: x-large;
+font-weight: bolder;
+}
+.nav-link:hover {
+color:white;
+}
+.brand:hover{
+    color: black;
+}
+.btn{
+    margin-left:100px;
+    height: 50px;
+    width:100px;
+   border:0;
+   background-color: black;
+   color:gold;
+}
+.btn:hover{
+    color:cornsilk;
+    background-color: black;
+}
+.nav-link{
+    margin-right: 10px;
+    color: black;
+   
+}
+.b-icon{
+    margin-left: -60px;
+}
+.bi{
+    margin-left:-40px;
+    margin-top: 10px;
+}
